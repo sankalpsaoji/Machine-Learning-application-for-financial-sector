@@ -1,4 +1,4 @@
-# Data-Mining-using-Machine-Learning
+# Machine learning application for financial sector
 Machine learning and Deep learning project with Data mining
 
 Implemented different Machine learning techniques to predict bank customer’s transaction values.
