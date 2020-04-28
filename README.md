@@ -1,5 +1,5 @@
 # Data-Mining-using-Machine-Learning
-Machine learning and Deep learning projects with Data mining
+Machine learning and Deep learning project with Data mining
 
 Implemented different Machine learning techniques to predict bank customer’s transaction values.
 Data pre-processing, feature engineering and exploratory data analysis were also performed
