@@ -6,3 +6,5 @@ Data pre-processing, feature engineering and exploratory data analysis were also
 Machine learning models such as Regression, Gradient boosting, ANN and XGboost were implemented
 All these models where implemented in R using R Studio.
 Model with the highest accuracy was selected.
+
+link to dataset: https://www.kaggle.com/c/santander-customer-transaction-prediction/data
